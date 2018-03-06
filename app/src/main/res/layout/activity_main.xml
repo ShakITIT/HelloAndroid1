@@ -40,7 +40,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/text3"
-        android:layout_marging="20dp"
         android:layout_margin="20dp"
         android:text="Mountain View, CA 94043" />
     <TextView
